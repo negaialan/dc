@@ -13,3 +13,6 @@ class Pic(Cog_Extension):
         random_pic = random.choice(jdata['miku'])
         pic = discord.File(random_pic)
         await ctx.send(file= pic)
+
+def setup(bot):
+    bot.add_cog(Pic(bot))
