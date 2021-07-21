@@ -10,7 +10,7 @@ with open('C:\\Users\\alann\\Documents\\GitHub\\dc\\setting.json','r',encoding='
 class Pic(Cog_Extension):
     @commands.command()
     async def sampic(self, ctx):
-        random_pic = random.choice(jdata['miku'])
+        random_pic = random.choice(jdata['MIKU'])
         pic = discord.File(random_pic)
         await ctx.send(file= pic)
 
