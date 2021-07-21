@@ -2,7 +2,7 @@
     "TOKEN": "TOKEN",
     "LAMYBOT": "867013109684109332",
 
-    "miku": ["C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\18_144512111797.jpg",
+    "MIKU": ["C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\18_144512111797.jpg",
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\hatsune-miku-clouds-railway-vocaloid-wallpaper.jpg",
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\images.jpg",
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\me.jpg",
@@ -27,5 +27,11 @@
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\d52565a451f16e028b7d9024f422ba0d52760e55.jpg",
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\EOZiGeHVAAAKwXx.jpg",
         "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\ttp9mqgzg9241.jpg",
-        "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\tumblr_pmwcjqy6oN1ugbsi5_1280-1.jpg"]        
+        "C:\\Users\\alann\\Documents\\GitHub\\dc\\miku pic\\tumblr_pmwcjqy6oN1ugbsi5_1280-1.jpg"],
+        
+    "LAMY":["C:\\Users\\alann\\Documents\\GitHub\\dc\\lamy pic\\3月壁紙.png",
+        "C:\\Users\\alann\\Documents\\GitHub\\dc\\lamy pic\\螢幕擷取畫面 2021-01-01 210148.png",
+        "C:\\Users\\alann\\Documents\\GitHub\\dc\\lamy pic\\E6fi-oeVcAEGXOi.jpg",
+        "C:\\Users\\alann\\Documents\\GitHub\\dc\\lamy pic\\Ez6YvuaUcAAen7w.jpg",
+        "C:\\Users\\alann\\Documents\\GitHub\\dc\\lamy pic\\Ez9AsMCVEAE6rhX.jpg"]
 }
